@@ -1,0 +1,6 @@
+@SPO_WebApi_HostAddress = http://localhost:5137
+
+GET {{SPO_WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
